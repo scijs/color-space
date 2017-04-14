@@ -1,5 +1,7 @@
 # Color-space [![Build Status](https://travis-ci.org/scijs/color-space.svg?branch=master)](https://travis-ci.org/scijs/color-space) [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/colorjs/color-space.svg)](https://greenkeeper.io/)
+
 <img src="https://raw.githubusercontent.com/scijs/color-space/gh-pages/logo.png" width="100%" height="150"/>
 
 Conversions and data for color spaces. [Demo](http://scijs.github.io/color-space).
